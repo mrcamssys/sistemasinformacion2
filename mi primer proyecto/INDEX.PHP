@@ -6,7 +6,7 @@
     <title>pagina prueba1</title>
 </head>
 <body>
-   <h1>mi primera pagina hibrida studen</h1> 
+   <h1>mi primera pagina hibrida studen ta ta ta ta ta ta ta taaaaaa taaaaaaaa taaaaaaaaaa taaaaaaaa</h1> 
 <hr>
 <?php
 $variable=0;
