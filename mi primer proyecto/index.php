@@ -1,25 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagina prueba</title>
+    <title>pagina prueba1</title>
 </head>
 <body>
-    <h1>mi primera pagina hibrida estudiante</h1>
+    <h1>mi primera pagina hibrida gafas</h1>
     <hr>
 
     <?php
         $variable=0;
-        echo "mi primer hola mundo con php";
+        echo "mi primer hola mundo gafas php";
 
-        //Aqui creo mis comentaerios, esto es un contador de 0 a 10
+        //aqui creo mi comentario sobre las gafas
 
         for($variable=0; $variable<=10; $variable++){
             echo "contador: ".$variable;
+
         }
-            
-        
     ?>
 
 </body>
